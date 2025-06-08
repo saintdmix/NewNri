@@ -313,7 +313,7 @@ class PrivacyPolicyPage extends StatelessWidget {
 
             _buildSection(
               'Contact Us',
-              'If you have any questions about this Privacy Policy, please contact us through our app or at our support email.',
+              'If you have any questions about this Privacy Policy, please contact us through our app or at our support email at activefood.care@gmail.com',
             ),
 
             SizedBox(height: 40),
